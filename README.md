@@ -23,7 +23,7 @@
 
 1. Run the application:
     ```sh
-    python decrypt_profile.py /path/to/profile.sii
+    python app.py --gameName
     ```
 2. The decrypted file will be created in the same directory.
 
